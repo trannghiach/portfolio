@@ -1,5 +1,3 @@
-@import "tailwindcss";
-
 :root {
   --bg: #030812;
   --surface: #07111c;
@@ -17,7 +15,6 @@ html,
 body {
   margin: 0;
   min-height: 100%;
-  overflow: hidden;
   background: var(--bg);
   color: var(--text);
 }

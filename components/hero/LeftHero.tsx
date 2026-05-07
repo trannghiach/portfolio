@@ -9,15 +9,15 @@ export function LeftHero() {
 
             <h1 className="hero-title">
                 <span>Turning</span>
-                <span>Noise Into</span>
-                <span className="cyan">Working</span>
+                <span className="cyan">Noise Into</span>
+                <span>Working</span>
                 <span className="cyan">Systems.</span>
             </h1>
 
             <div className="hero-divider" />
 
             <p className="hero-subtitle">
-                Engineer building web applications, agentic tools, and
+                An engineer building web applications, agentic tools, and
                 play CTFs
             </p>
 
